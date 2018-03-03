@@ -1,2 +1,2 @@
 # Python
-Simple projects
+Projects done during my MCA degree
